@@ -3,7 +3,7 @@
   "version": "0.0.6",
   "description": "TWIRP RPC client for use with protoc-gen-twirp_js",
   "peerDependencies": {
-    "node-fetch": "^2.0.0"
+    "node-fetch": "^2.6.1"
   },
   "optionalDependencies": {
     "whatwg-fetch": "^2.0.3"
